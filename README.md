@@ -3,15 +3,15 @@
 
 <ul>
  <li>🌱 I'm currently graduating in Computer Science.</li>
- <li>🤔 I’m interested in studying full stack development.</li>
- <li>📚 I seek to learn more and more about web and software development.</li>
+ <li>🤔 I’m interested in studying datas cience.</li>
+ <li>📚I aspire to further my knowledge in the fields of artificial intelligence and data science.</li>
 </ul>
 
 ## Find me elsewhere 🌎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhtenorio/)
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHTenorio&show_icons=true&theme=dracula)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhorat&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHTenorio&layout=compact&theme=dracula)
 
