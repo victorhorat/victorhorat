@@ -3,8 +3,9 @@
 
 <ul>
  <li>🌱 I'm currently graduating in Computer Science.</li>
- <li>🤔 I’m interested in studying datas cience.</li>
- <li>📚I aspire to further my knowledge in the fields of artificial intelligence and data science.</li>
+ <li>🚀 Focused on becoming a skilled backend developer.</li>
+ <li>🧠 Passionate about artificial intelligence and its applications in software engineering.</li>
+ <li>💻 Aspiring to build intelligent systems and scalable backend architectures.</li>
 </ul>
 
 ## Find me elsewhere 🌎
