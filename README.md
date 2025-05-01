@@ -14,7 +14,7 @@
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhorat&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHTenorio&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhorat&layout=compact&theme=dracula)
 
 ## Languages and Tools 💻
 <div style="display: inline_block">
